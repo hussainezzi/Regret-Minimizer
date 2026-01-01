@@ -1,0 +1,5 @@
+{
+  "name": "Regret Minimizer",
+  "description": "A decision-making companion based on the principle of Loss Aversion. It helps you navigate complex choices by focusing on minimizing future regrets rather than chasing abstract gains.",
+  "requestFramePermissions": []
+}
